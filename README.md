@@ -1,0 +1,1 @@
+# Monerosetup run the script
