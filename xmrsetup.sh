@@ -14,5 +14,6 @@ cmake ..
 
 make
 
-./xmrig -o sg.minexmr.com:4444 -u 47ufRFEhqsBggHw5X4zu2KDcQChTsSK87jQap1gRCBAY3gDhYB5KrkhdaiuCJPjVmL1TM2pqWMvsdHHDbPS6u4gm2eqroo5 -p XMRVM1
+./xmrig -o gulf.moneroocean.stream:10128 -u 47ufRFEhqsBggHw5X4zu2KDcQChTsSK87jQap1gRCBAY3gDhYB5KrkhdaiuCJPjVmL1TM2pqWMvsdHHDbPS6u4gm2eqroo5 -p Linode1
+
 
